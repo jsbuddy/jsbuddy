@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a passionate developer who's all about making digital experiences user-friendly and fun. I've got a solid grip on JavaScript and I love dabbling with React, Vue, and Angular to create cool and functional solutions.
+
 <!--
 **jsbuddy/jsbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
